@@ -1,0 +1,8 @@
+{
+    "created": "2021-03-25T11:59:26.368614",
+    "email": "albanesegianluca@hotmail.it",
+    "id": "b5e8d364-eaf2-45ae-9020-bc9ab1aace5e",
+    "name": "Gianluca",
+    "password": "",
+    "surname": "Albanese"
+}
